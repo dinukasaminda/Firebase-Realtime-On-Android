@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "634512650771",
+    "firebase_url": "https://websignindin.firebaseio.com",
+    "project_id": "websignindin",
+    "storage_bucket": "websignindin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634512650771:android:e75c58ba3d331d86",
+        "android_client_info": {
+          "package_name": "com.tutorials.dinukasaminda.firebase_realtime_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634512650771-oacu6e6sgkps16814i53q819mgo2kake.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorials.dinukasaminda.firebase_realtime_android",
+            "certificate_hash": "24f0f916811ea3d5d2fa6c5d5b07fde472beb6f1"
+          }
+        },
+        {
+          "client_id": "634512650771-v78rge3c9r1ahgsa53if8k57thed10fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJSNPf2vrj4iagxw5ItHuFcqYU6TrNr0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634512650771-v78rge3c9r1ahgsa53if8k57thed10fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
